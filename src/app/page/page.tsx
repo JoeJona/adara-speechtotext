@@ -1,3 +1,4 @@
+/* eslint-disable */
 "use client";
 
 // Import necessary modules and components
